@@ -7,6 +7,8 @@
       <NuxtLink to="/">Home (no pass)</NuxtLink>
       ／
       <NuxtLink to="/pass">pass</NuxtLink>
+      ／
+      <NuxtLink to="/proxy">proxy</NuxtLink>
     </div>
     <slot />
   </div>
